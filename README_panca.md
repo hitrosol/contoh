@@ -1,0 +1,1 @@
+ini contoh panca yg per hari ini 25 Dec 2017
