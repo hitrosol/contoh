@@ -3,3 +3,4 @@ Rencana content saya:
     - Siapin ceritanya
     - Siapin bahannya
 2. Bikin tutorial
+3. Materi fundamental
